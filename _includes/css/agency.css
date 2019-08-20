@@ -345,7 +345,7 @@ section h3.section-subheading {
 
 @media(min-width:768px) {
     section {
-        padding: 150px 0;
+        padding: 50px 0;
     }
 }
 
@@ -657,18 +657,18 @@ aside.clients img {
 }
 
 section#contact {
-    background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-color: #fff;
+    height: 50px
     background-position: center;
     background-repeat: no-repeat;
 }
 
 section#contact .section-heading {
-    color: #fff;
+    color: #000;
 }
 
 section#contact .form-group {
-    margin-bottom: 25px;
+    margin-bottom: 0px;
 }
 
 section#contact .form-group input,
@@ -681,7 +681,7 @@ section#contact .form-group input.form-control {
 }
 
 section#contact .form-group textarea.form-control {
-    height: 236px;
+    height: auto;
 }
 
 section#contact .form-control:focus {

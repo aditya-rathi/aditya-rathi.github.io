@@ -7,40 +7,6 @@ email: rathi.aditya@iitgn.ac.in
 description: "My Portfolio"
 
 
-# Team names, titles and social links
-people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: linkedin
-      url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -52,6 +18,8 @@ social:
     url: https://www.instagram.com/adityarathi14/
   - title: github
     url: https://github.com/aditya-rathi
+  - title: mail
+    url: mailto:rathi.aditya@iitgn.ac.in
 
 # Postal address (add as many lines as necessary)
 #address:
