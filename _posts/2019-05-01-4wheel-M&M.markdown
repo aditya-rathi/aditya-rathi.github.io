@@ -1,0 +1,14 @@
+---
+title: Four-Wheeled Independent Steering and Speed Control System
+subtitle: 
+layout: default
+modal-id: 3
+date: 2019-05-01
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Jan '19 - Apr '19
+mentor: Prof. Madhu Vadali
+description: The 4-wheeled independent steering and power system was in collaboration with Mahindra&Mahindra to design a system minimizing slip irrespective of the environmental variables.</p><p align="justify"> The project began with modeling of the system using Simulink and MATLAB. We created a model that could simulate the motion of the four-wheels and where we could independently change the environmental conditions such as friction. This gave us parameters required for the motors that would be driving and steering this system. Using these parameters we chose suitable motors with DC motors being used for locomotion and servo motors being used for steering.</p><p align="justify"> Using the motors as a base we then designed the actual bod,y of the vehicle around it. The DC motors were directly attached to the axis of the wheels while the servos were connected to the chassis and provided steering action through a set of bevel gears. The chassis itself was laser-cut from MDF sheets to ensure accuracy. MDF was chosen due to its easy availability and low cost. It was tested to ensure it could support the entire system while in motion.</p><p align="justify"> The Final step was the assembly of the system and translation of the MATLAB code onto actual motors. We used arduinos as our controllers for the vehicle. Due to the limited processing power of the arduinos, we used 2 of them each one controlling a pair of servos and a pair of DC motors. We successfully demonstrated a working prototype of the vehicle.
+
+---

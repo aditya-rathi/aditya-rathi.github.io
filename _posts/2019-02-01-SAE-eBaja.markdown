@@ -1,0 +1,15 @@
+---
+title: SAE e-BAJA 2019
+subtitle: participation in the e-BAJA competition
+layout: default
+modal-id: 2
+date: 2019-02-01
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: Feb '18 - Feb '19
+mentor: Prof. Madhu Vadali, Prof. Harish P M
+description: Participation in eBAJA was the natural succession of ‘The Go-Kart Project’. Having successfully built the go-kart we wanted to scale things up but in a controlled manner. Participating in eBAJA was the ideal solution as it offered a bigger challenge and also came with a set of guidelines in the form of the rulebook, which ensured focused work towards a universal goal.</p><p align="justify"> Before participating we first set up the Society of Automotive Engineers (SAE) chapter at IIT Gandhinagar. This also involved recruiting the team for the competition. Next, we set about designing the vehicle. This involved making CAD models of the vehicle and simulating the various components to ensure compliance with competition standards. All of this was tested in the virtual round where we had to present our design and justify our choices. </p><p align="justify"> We qualified the virtuals and now it was time to actually manufacture the vehicle. I was in charge of the steering department and so my work was making the steering system and ensuring coordination within the department. Our tasks were mainly to use the rulebook and other constraints to decide on the steering system. Our major tasks were selecting the actual steering mechanism, deciding Ackermann percentages, setting toe-in, caster and camber angles, finalizing the rack-travel and steering ratio. </p><p align="justify"> We decided on using a rack and pinion type of system as it suited our requirements of simplicity, robustness and was cheap to manufacture. Finally, we went out into the market to buy the raw materials to build the system. These were machined in house using the tools available in our lab to make the steering system. Thus the steering system was manufactured, assembled and ready to work.</p><p align="justify"> We participated in the competition in February 2019. For this, we took the vehicle to Pithampur, Madhya Pradesh and while we did not win any prizes it was a fantastic experience that taught us countless things that we would have otherwise never learned.
+
+
+---
