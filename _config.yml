@@ -2,9 +2,9 @@ url: https://y7kim.github.io
 baseurl: 
 
 # Site settings
-title: Aditya's Portfolio
+title: Aditya Rathi
 email: rathi.aditya@iitgn.ac.in
-description: "My Portfolio"
+description: "Aditya Rathi is a senior undergraduate in mechanical engineering at IIT Gandhinagar."
 
 
 
@@ -18,7 +18,7 @@ social:
     url: https://www.instagram.com/adityarathi14/
   - title: github
     url: https://github.com/aditya-rathi
-  - title: mail
+  - title: envelope-o
     url: mailto:rathi.aditya@iitgn.ac.in
 
 # Postal address (add as many lines as necessary)

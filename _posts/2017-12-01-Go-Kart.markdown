@@ -2,14 +2,12 @@
 title: The Go-Kart Project
 subtitle: Website Design
 layout: default
-modal-id: 2
+modal-id: 1
 date: 2017-12-01
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: August 2017
-#client: Start Bootstrap
-#category: Web Development
-description: For the first group, i.e. for p, div, and heading elements, the align attribute is in principle deprecated, and a document using it does not conform to a "Strict" version of HTML syntax. For the second group, i.e. for elements for table markup, it is not deprecated. (It's hard to see why. The attribute is basically presentational in both cases, and the general idea is that presentational suggestions should be made in a style sheet, not in HTML.) 
+project-date: Aug '17 - Dec '17
+description:  The Go-Kart project was an ambitious attempt to build the very first in-house go-kart at IIT Gandhinagar. As fresh sophomores, I along with a few of my friends decided to take on this project as a way to get hands-on experience of building something from scratch.</p><p align="justify">Initially we created a proposal documenting the rough design, a list of parts and an approximate budget of the entire car. After getting this proposal approved we started manufacturing the car. The first step was welding the frame which provided a base for mounting everything else. Then we worked simultaneously on the steering and power systems. Majority of the components were made in house while some such as the engine, were purchased and assembled. Once completed we moved on to the braking system and finishing the car.</p><p align="justify"> It was a joy to see the car first roll under its own power. Then we began testing it thoroughly. During testing, however, the real axle broke off unable to sustain the weight of the car with the rider. While heartbreaking, we did not give up hope and worked hard to replace the rear axle with a solid one much stronger than the previous one.</p><p align="justify"> With some finishing touches the go-kart was finally complete. The car was showcased in the campus and was a success.
 
 ---
