@@ -1,6 +1,6 @@
 ---
 title: The Go-Kart Project
-subtitle: Website Design
+subtitle: Making of our Go-Kart
 layout: default
 modal-id: 1
 date: 2017-12-01

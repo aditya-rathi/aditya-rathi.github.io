@@ -1,5 +1,5 @@
 ---
-title: Four-Wheeled Independent Steering and Speed Control System
+title: 4-Wheel Independent Steering and Speed Control System
 subtitle: 
 layout: default
 modal-id: 3
